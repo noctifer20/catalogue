@@ -1,0 +1,4 @@
+.idea
+uploads/*
+composer.lock
+vendor

@@ -1,0 +1,20 @@
+{
+    "name": "noctifer/catalogue",
+    "type": "project",
+    "authors": [
+        {
+            "name": "noctifer",
+            "email": "ohanjanyan.miqayel@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "slim/slim": "^3.0",
+        "doctrine/orm": "^2.6",
+        "firebase/php-jwt": "^5.0"
+    }
+}
